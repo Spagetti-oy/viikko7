@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         context = MainActivity.this;
         System.out.println("Kansio sijainti: " + context.getFilesDir());
         //this.testFunction();
+        //testikommentti
 
         text = (TextView) findViewById(R.id.textView);
         text2 = (TextView) findViewById(R.id.textView2);
